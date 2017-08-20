@@ -1,4 +1,4 @@
-baseURL = "http://attorney-porcupine-12644.netlify.com/"
+baseURL = "http://qins.netlify.com/"
 languageCode = "en"
 title = "You Blog"
 theme = "hugo-nuo"
