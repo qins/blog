@@ -1,4 +1,5 @@
-baseURL = "http://qins.netlify.com/"
+#baseURL = "http://qins.netlify.com/"
+baseURL = "http://blog.youyisi.de/"
 languageCode = "en"
 title = "You Blog"
 theme = "hugo-nuo"
