@@ -34,9 +34,9 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 [params]
   author = "Qins"
   avatar = "/img/avatar.jpg"
-  seotitle = "Hugo Blog (SEO Version)"
+  seotitle = "You Blog"
   subtitle = "~ Keep It Simple & Stupid ~"
-  description = "Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again."
+  description = "You yi si(有意思) in Chinese means interesting."
   paginate = 10
 
   # Choose your social networks
