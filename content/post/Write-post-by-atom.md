@@ -1,10 +1,11 @@
 ---
 title: Write Post by Atom
 date: {}
-draft: true
-published: true
+draft: false
 ---
 Just let's test the build CMD.
 And no, it can't make draft false.
 
 *I'm tring prose, a web editor for MD*
+
+prose can't make draft false
