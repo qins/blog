@@ -1,6 +1,7 @@
 ---
 title: "github editor add title"
 date: 2018-1-17
+draft: false
 ---
 ## A New Post
 
