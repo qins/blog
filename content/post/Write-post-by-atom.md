@@ -1,6 +1,6 @@
 ---
 title: Write Post by Atom
-date: {}
+date: {2018-01-16 21:15:41 -0700}
 draft: false
 ---
 Just let's test the build CMD.
