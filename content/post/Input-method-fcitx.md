@@ -1,7 +1,7 @@
 ---
 title: "Input Method Fcitx"
 date: 2017-08-18T16:15:41+08:00
-draft: false
+draft: true 
 ---
 Input method fcitx not work in Manjaro xfce. Strange! It has worked before as on Arch Linux.
 

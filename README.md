@@ -1,2 +1,2 @@
 # blog
-Just a late blog
+Just a late blog to record and share.

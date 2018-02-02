@@ -1,7 +1,7 @@
 ---
 title: Write Post by Atom
 date: 2018-01-16 21:15:41 -0700
-draft: false
+draft: true 
 ---
 Just let's test the build CMD.
 And no, it can't make draft false.
