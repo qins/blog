@@ -45,8 +45,8 @@ Head 1 positon | head 2 position | head 3 position | little One
 =\_= Let it be
 `code()` like beautiful
 
-```perl
-print "^_^";
+```python
+print "^_^"
 ```
 
 ^_^ I like little kitten  
