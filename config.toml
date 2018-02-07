@@ -1,4 +1,3 @@
-#baseURL = "http://qins.netlify.com/"
 baseURL = "http://blog.youyisi.de/"
 languageCode = "en"
 title = "You Blog"
@@ -9,13 +8,13 @@ PygmentsCodeFences = true
 canonifyurls = true
 
 # Disqus Username
-disqusShortname = "disqus_shortname"
+disqusShortname = "qinsil"
 
 # Google Analytics UA number
 googleAnalytics = "UA-104908429-1"
 
 # Copyright of your post
-copyright = "© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce."
+copyright = "© This post is licensed under CC License, please give source if you likes to quote or reproduce."
 
 # Initial site menu, you can extend menu with content.
 [[menu.main]]
@@ -63,9 +62,9 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   # bilibili = "bilibili_id_number"
 
   # Changyan Comments (China Only)
-  #changyan = false
-  #changyanId = "cyt3toRiB"
-  #changyanConf = "prod_0908b1cb9a581501753cce1ed074dbe3"
+  changyan = false
+  changyanId = "cyt3toRiB"
+  changyanConf = "prod_0908b1cb9a581501753cce1ed074dbe3"
 
   # Google Webmaster
   # https://www.google.com/webmasters/
