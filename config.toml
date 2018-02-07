@@ -8,7 +8,7 @@ PygmentsCodeFences = true
 canonifyurls = true
 
 # Disqus Username
-disqusShortname = "qinsil"
+disqusShortname = "qins"
 
 # Google Analytics UA number
 googleAnalytics = "UA-104908429-1"
@@ -60,11 +60,6 @@ copyright = "© This post is licensed under CC License, please give source if yo
   # zhihu = "zhihu_username"
   # douban = "douban_username"
   # bilibili = "bilibili_id_number"
-
-  # Changyan Comments (China Only)
-  changyan = false
-  changyanId = "cyt3toRiB"
-  changyanConf = "prod_0908b1cb9a581501753cce1ed074dbe3"
 
   # Google Webmaster
   # https://www.google.com/webmasters/
