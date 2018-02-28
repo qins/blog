@@ -4,7 +4,7 @@ date: 2018-03-01T00:43:18+08:00
 draft: false
 ---
 
-Python code:
+### Python code:
 ```python
 #!/usr/bin/python3
 import sys
@@ -138,7 +138,7 @@ print('Sorry, darling, but I can only drink 2 bottles atmost.')
 print('\n---\n' + 'The story is written on', sys.platform + '.')
 ```
 
-**Run story.py, Output Story:**
+### Run story.py, Output Story:
 * King: Hello, my Queen!
 * They have a prince.
 * Albert: Yes, I'm a prince.
