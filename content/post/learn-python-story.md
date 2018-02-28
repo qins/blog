@@ -4,6 +4,8 @@ date: 2018-03-01T00:43:18+08:00
 draft: false
 ---
 
+Learn by story and have fun!
+
 ### Python code:
 ```python
 #!/usr/bin/python3
@@ -150,16 +152,16 @@ print('\n---\n' + 'The story is written on', sys.platform + '.')
 * Albert: I'm writing our family tree to familyTree.txt.
 * Albert: I'm reading our family tree to you:  
 
-> King Queen
->> Lily Alice Albert
+> King Queen  
+> Lily Alice Albert
 
 * Alice: What is the sum of 1 to 100? The answer is 5050 which calculate by the most stupid but simple coding method.
 
 * King: Alice, You are so clever, my sweet heart.  
 
->I have $10. And $2 can buy 1 bottle of beer.
->4 bottle caps can be exchanged for 1 bottle beer.
->2 empty bottles can be exchanged for 1 bottle of beer.
+>I have $10. And $2 can buy 1 bottle of beer.  
+>4 bottle caps can be exchanged for 1 bottle beer.  
+>2 empty bottles can be exchanged for 1 bottle of beer.  
 >So, how many bottles of beer can I drink?  
 
 * I will make you the next Queen if you give the correct answer.
