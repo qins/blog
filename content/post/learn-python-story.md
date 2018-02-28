@@ -148,12 +148,14 @@ print('\n---\n' + 'The story is written on', sys.platform + '.')
 * Alice: Math is beautiful. e^(pi\*i) + 1 = 0, sin(pi/2) = 1.0
 * Alice: I am gona write a app for ANDroiD(Android) which reverse sequence is DiorDNA.
 * Albert: I'm writing our family tree to familyTree.txt.
-* Albert: I'm reading our family tree to you:
+* Albert: I'm reading our family tree to you:  
+
 > King Queen
 >> Lily Alice Albert
 * Alice: What is the sum of 1 to 100? The answer is 5050 which calculate by the most stupid but simple coding method.
 
 * King: Alice, You are so clever, my sweet heart.  
+
 >I have $10. And $2 can buy 1 bottle of beer.
 >4 bottle caps can be exchanged for 1 bottle beer.
 >2 empty bottles can be exchanged for 1 bottle of beer.
