@@ -153,7 +153,7 @@ print('\n---\n' + 'The story is written on', sys.platform + '.')
 >> Lily Alice Albert
 * Alice: What is the sum of 1 to 100? The answer is 5050 which calculate by the most stupid but simple coding method.
 
-* King: Alice, You are so clever, my sweet heart.
+* King: Alice, You are so clever, my sweet heart.  
 >I have $10. And $2 can buy 1 bottle of beer.
 >4 bottle caps can be exchanged for 1 bottle beer.
 >2 empty bottles can be exchanged for 1 bottle of beer.
