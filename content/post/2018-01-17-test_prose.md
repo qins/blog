@@ -1,7 +1,7 @@
 ---
 title: "github editor add title"
 date: 2018-01-17
-draft: false
+draft: true
 ---
 ## A New Post
 
@@ -9,7 +9,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 It has no time stamp.
 
-test code
+test code:
 ```python
 #!/usr/bin/python3
 import sys
@@ -31,7 +31,7 @@ elif child1=="boy":
 else:
     print("They have a ...")
 ```
-out
+out:
 >aaa: bbb
 >bbb: cc
 >dd: ee
