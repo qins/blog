@@ -52,6 +52,6 @@ print "^_^"
 ^_^ I like little kitten  
 ![cat](../img/cat.jpg "kitten")
 
-#some more
-#<kbd>Down</kbd>
-#:smirk:
+#some more 
+<kbd>Down</kbd> 
+:smirk:
