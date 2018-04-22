@@ -10,11 +10,11 @@ draft: false
 
 经常需要复制一个长网址或者一段文字，但电脑上没有登陆微信，也懒得为了传一段字专门登，同时一个字一个字打出来没效率。或者偶尔有些需要记的号码，用其他工具不太方便。
 
-为了解决以上问题，做了一个简单的小纸条 web app：[ji.youyisi.de](ji.youyisi.de)（记有意思的）
+为了解决以上问题，做了一个简单的小纸条 web app：ji.youyisi.de（记有意思的）
 
 ## 使用
 
-1. 打开[ji.youyisi.de](ji.youyisi.de)
+1. 打开 http://ji.youyisi.de
 2. 直接填入内容，提交
 3. 这里简单网址直接取回：ji.youyisi.de/public
 
