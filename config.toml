@@ -1,4 +1,4 @@
-baseURL = "http://blog.youyisi.de/"
+baseURL = "/"
 languageCode = "en"
 title = "You Blog"
 theme = "hugo-nuo"
