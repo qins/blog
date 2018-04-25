@@ -29,6 +29,12 @@ copyright = "© This post is licensed under CC License, please give source if yo
   identifier = "works"
   url = "https://github.com/qins"
 
+[[menu.main]]
+  name = "Tags"
+  weight = 30
+  identifier = "tags"
+  url = "/tags/"
+
 # Add your own params here
 [params]
   author = "Qins"
