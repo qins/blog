@@ -33,7 +33,7 @@ copyright = "© This post is licensed under CC License, please give source if yo
   name = "Tags"
   weight = 30
   identifier = "tags"
-  url = "/tags/"
+  url = "/tags"
 
 # Add your own params here
 [params]
